@@ -1,0 +1,6 @@
+{
+  "appId": "com.fluxer.app",
+  "appName": "Fluxer",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
